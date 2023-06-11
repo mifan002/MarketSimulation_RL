@@ -4,7 +4,8 @@
 [![Latest Commit](https://img.shields.io/github/last-commit/sypsyp97/MarketSimulation_RL?style=plastic&logo=github&logoColor=white&color=blueviolet&label=Latest%20Commit)](https://github.com/sypsyp97/MarketSimulation_RL/commits/main)
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=plastic&logo=apache)](https://opensource.org/licenses/Apache-2.0)
 [![Documentation](https://img.shields.io/badge/documentation-view-orange?style=plastic)](https://sypsyp97.github.io/MarketSimulation_RL/)
-[![Contributions](https://img.shields.io/badge/Contributions-Contact%20Maintainer-yellow?style=plastic&logo=github&logoColor=white)](https://github.com/sypsyp97/MarketSimulation_RL/issues)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellow?style=plastic&logo=github&logoColor=white)](https://github.com/sypsyp97/MarketSimulation_RL/issues)
+
 
 Welcome to the MarketSimulation_RL repository! This project is focused on conducting market simulations using Reinforcement Learning (RL) methods. The primary question we aim to answer is whether collusion can emerge in a market environment even without explicit communication between the agents.
 
