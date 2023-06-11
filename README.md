@@ -1,7 +1,10 @@
 # MarketSimulation_RL
 
-![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)
-![License](https://img.shields.io/badge/license-Apache--2.0-green)
+![Python 3.9](https://img.shields.io/badge/python-3.9-blueviolet.svg?style=plastic)
+![License](https://img.shields.io/badge/license-Apache--2.0-brightgreen?style=plastic)
+[![Documentation](https://img.shields.io/badge/documentation-view-orange?style=plastic)](https://sypsyp97.github.io/MarketSimulation_RL/)
+
+
 
 This repository contains work on market simulations using Reinforcement Learning (RL) to find if collusion will happen without communication.
 
