@@ -1,0 +1,7 @@
+EvaluateModel module
+====================
+
+.. automodule:: EvaluateModel
+   :members:
+   :undoc-members:
+   :show-inheritance:
