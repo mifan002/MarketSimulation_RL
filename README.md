@@ -3,7 +3,7 @@
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-3776AB?style=plastic&logo=python&logoColor=white)](https://docs.python.org/3.9/)
 [![Latest Commit](https://img.shields.io/github/last-commit/sypsyp97/MarketSimulation_RL?style=plastic&logo=github&logoColor=white&color=blueviolet&label=Latest%20Commit)](https://github.com/sypsyp97/MarketSimulation_RL/commits/main)
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?style=plastic&logo=apache)](https://opensource.org/licenses/Apache-2.0)
-[![Documentation](https://img.shields.io/badge/documentation-view-orange?style=plastic)](https://sypsyp97.github.io/MarketSimulation_RL/)
+[![Documentation](https://img.shields.io/badge/Documentation-Online-orange?style=plastic&logo=read-the-docs&logoColor=white)](https://sypsyp97.github.io/MarketSimulation_RL/)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellow?style=plastic&logo=github&logoColor=white)](https://github.com/sypsyp97/MarketSimulation_RL/issues)
 
 
