@@ -9,14 +9,18 @@
 
 Welcome to the MarketSimulation_RL repository! This project is focused on conducting market simulations using Reinforcement Learning (RL) methods. The primary question we aim to answer is whether collusion can emerge in a market environment even without explicit communication between the agents.
 
+---
 
 ## Table of Contents
 
-1. [Dependencies and Installation](#dependencies-and-installation)
-2. [Usage](#usage)
-3. [To-Do List](#to-do-list)
-4. [License](#license)
+- [Dependencies and Installation](#dependencies-and-installation)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [To-Do List](#to-do-list)
+- [License](#license)
+- [Contact](#contact)
 
+---
 
 ## Dependencies and Installation
 
@@ -32,6 +36,7 @@ To install these libraries, you can use `pip`:
 ```shell
 pip install gym numpy stable_baselines3 sb3_contrib
 ```
+---
 
 ## Usage
 
@@ -55,6 +60,25 @@ python main.py
 ```
 This will run the main simulation and display the results in the terminal.
 
+---
+
+## Documentation
+
+The detailed documentation is available [online](https://sypsyp97.github.io/MarketSimulation_RL/).
+
+Alternatively, you can clone the `gh-pages` branch of this repository to view the documentation offline:
+
+- Clone the `gh-pages` branch to your local machine：
+ ```bash
+git clone -b gh-pages https://github.com/sypsyp97/MarketSimulation_RL.git ./MarketSimulation_RL_Doc
+cd MarketSimulation_RL_Doc
+ ```
+- Open the `index.html` file in a web browser to view the documentation.
+```bash
+xdg-open index.html
+```
+---
+
 ## To-Do List
 
 Here are some of the enhancements planned for future development:
@@ -64,7 +88,20 @@ Here are some of the enhancements planned for future development:
 
 Contributions towards these enhancements are welcome!
 
+---
 
 ## License
 
 This project is licensed under the [Apache-2.0 license](./LICENSE).
+
+---
+
+## Contact
+
+For further assistance or any questions, feel free to open an issue on this GitHub repository or reach out to the maintainer.
+
+**Yipeng Sun**
+- Github: [@sypsyp97](https://github.com/sypsyp97)
+- Email: [yipeng.sun@fau.de](mailto:yipeng.sun@fau.de)
+
+Please adhere to the code of conduct when interacting with the community and keep discussions relevant to the project. Happy coding!
