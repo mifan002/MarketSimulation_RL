@@ -36,7 +36,7 @@ This is one of the most fundamental models in economics and serves as a benchmar
 - dynamic competition (more than one time period)
 - possible for sustaining collusion
 
-# 1. About Game theory
+# Appendix 1 - About Game theory
 ## 1.1 Why game theory
 - because oligopoly is more related to game-theoretic situations, ratehr than decision-theoretic situations
 ## 1.1.1 decision-theoretic
@@ -59,10 +59,41 @@ This is one of the most fundamental models in economics and serves as a benchmar
 - rules: specifying 3 things: (1) the timing of all players’ moves; (2) the actions available to a player at each of her moves; and (3) the information that a player has at each move
 - outcome: what is defined as outcome? but anyway, it depends on what each player does during his move
 - payoffs: represent the preferences of players over the outcomes of the game, but what is it???
+- equilibrium: solution to a game, a likely outcome
+- rationality & common knowledge assumption: everyone knows game structure perfectly and aim for maximizing his payoff, and he knows his opponents are same as himself
 
 ### 1.2.2 Types of Games
 #### Static Game
-- single-stage game: all players move only once and at the same time, and then game is over. 
-- I can guess what others might do, but no chance to know what they HAVE DONE, thus impossible to base my action on their actions
+- single-stage game, all players move only once and at the same time, and then game is over. I can guess what others might do, but no chance to know what they HAVE DONE, thus impossible to base my action on their actions
 #### Dynamic Game
-- multi-stages game: 
+- multi-stages game
+#### coorperative game & non-coorperative game
+- coorperative: binding agreement > self-interest
+- non-coorperative: binding agreement < self-interest
+
+## 1.3 Case Study: Static Game + Complete Information
+### 1.3.1 Representation
+- normal form representation: payoff matrix, for 2-players game
+- similar to a discrete version of 2D coordinate system, players strategies set = axis
+
+### 1.3.2 How to find equilibrium
+#### 1.3.2.1 Dominant Strategy
+- not necessarily to exist
+- strictly dominant strategy = best of all
+- definition: for each player, if choosing a strategy can bring him the best payoff, regardless of how other play, then that --> dominant strategy
+- how to use: if for everyone exist his dominant strategy, then the combi of all dominant is equilibrium of the game.
+- example: prisoner's dilemma, strictly dominant strategy exist for each prisoner
+
+#### 1.3.2.2 Dominated Strategy
+- useful when dominant strategy NOT exist
+- strictly dominated strategy = at least strictly worse than some other strategy
+- definition: for each player, if there is a strategy strictly worse than some other strategy in all situations (regardless of how his opponents play), then that --> strictly dominated strategy
+- how to use: by assuming any rational people will avoid playing dominated strategy, we can eliminate some strategies from the set, such that game will become easier to solve
+- limitation: solutions might not be unique --> picking one from rationalizable strategies of each player and making a combi
+
+#### 1.3.2.3 Nash Equilibrium
+- stricter than rationalizable strategies combi
+- definition: no one can get more by unilaterally (i.e., assuming others won't change strategies) changing his strategy, or: his payoff is maximized given others' strategies fixed, or: he plays the "best response" to the given strategies profile of others
+- my understanding: similar to definition of local maxima, but discrete version
+- limitation: (1) might not exist; (2) might be not unique
+- how to use it: if a game has a unique solution, then it must be nash equilibrium. inversely not necessarily to be true.
